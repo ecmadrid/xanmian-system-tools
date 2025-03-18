@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Gestor de nombre de equipo y dominio
+Comment=Gestiona usuarios y shares de Samba
+Exec=/bin/bash -c "/usr/bin/pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY /usr/local/bin/hostname-config.py"
+Icon=network-idle
+Terminal=false
+Type=Application
+Categories=System;Settings;
+Name[es_ES]=Gestor de nombre de equipo y dominio

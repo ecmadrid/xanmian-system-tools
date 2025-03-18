@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Gestor de Samba
+Comment=Gestiona usuarios y shares de Samba
+Exec=/bin/bash -c "/usr/bin/pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY /usr/local/bin/samba_manager.py"
+Icon=network-workgroup
+Terminal=false
+Type=Application
+Categories=System;Settings;

@@ -1,0 +1,8 @@
+Name: xanmian-system-tools
+Version: 1.0
+Release: 1
+Summary: Xanmian system tools
+Description: Xanmian system tools
+Vendor: Juan Sánchez <contact@xanmian.com>
+License: MIT
+Arch: noarch
