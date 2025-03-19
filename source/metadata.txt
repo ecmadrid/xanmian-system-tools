@@ -1,5 +1,5 @@
 Name: xanmian-system-tools
-Version: 1.0
+Version: 2.0
 Release: 1
 Summary: Xanmian system tools
 Description: Xanmian system tools
